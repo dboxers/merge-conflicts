@@ -1,4 +1,4 @@
-name: Jekyll site CI
+name: DBOXERS site CI
 
 on:
   push:
